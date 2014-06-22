@@ -24,72 +24,73 @@ Finally, means are calculated for each measure and reported per subject and acti
 The tidy dataset produced (tidy.txt) contains the following vairables:
 
 
-  activity
-  subjectid 
+- activity
+- subjectid
 
-tBodyAccmeanX
-tBodyAccmeanY
-tBodyAccmeanZ
-tBodyAccstdX
-tBodyAccstdY
-tBodyAccstdZ
-tGravityAccmeanX
-tGravityAccmeanY
-tGravityAccmeanZ
-tGravityAccstdX
-tGravityAccstdY
-tGravityAccstdZ
-tBodyAccJerkmeanX
-tBodyAccJerkmeanY
-tBodyAccJerkmeanZ
-tBodyAccJerkstdX
-tBodyAccJerkstdY
-tBodyAccJerkstdZ
-tBodyGyromeanX
-tBodyGyromeanY
-tBodyGyromeanZ
-tBodyGyrostdX
-tBodyGyrostdY
-tBodyGyrostdZ
-tBodyGyroJerkmeanX
-tBodyGyroJerkmeanY
-tBodyGyroJerkmeanZ
-tBodyGyroJerkstdX
-tBodyGyroJerkstdY
-tBodyGyroJerkstdZ
-tBodyAccMagmean
-tBodyAccMagstd
-tGravityAccMagmean
-tGravityAccMagstd
-tBodyAccJerkMagmean
-tBodyAccJerkMagstd
-tBodyGyroMagmean
-tBodyGyroMagstd
-tBodyGyroJerkMagmean
-tBodyGyroJerkMagstd
-fBodyAccmeanX
-fBodyAccmeanY
-fBodyAccmeanZ
-fBodyAccstdX
-fBodyAccstdY
-fBodyAccstdZ
-fBodyAccJerkmeanX
-fBodyAccJerkmeanY
-fBodyAccJerkmeanZ
-fBodyAccJerkstdX
-fBodyAccJerkstdY
-fBodyAccJerkstdZ
-fBodyGyromeanX
-fBodyGyromeanY
-fBodyGyromeanZ
-fBodyGyrostdX
-fBodyGyrostdY
-fBodyGyrostdZ
-fBodyAccMagmean
-fBodyAccMagstd
-fBodyBodyAccJerkMagmean
-fBodyBodyAccJerkMagstd
-fBodyBodyGyroMagmean
-fBodyBodyGyroMagstd
-fBodyBodyGyroJerkMagmean
-fBodyBodyGyroJerkMagstd
+- tBodyAccmeanX
+- tBodyAccmeanY
+- tBodyAccmeanZ
+- tBodyAccstdX
+- tBodyAccstdY
+- tBodyAccstdZ
+- tGravityAccmeanX
+- tGravityAccmeanY
+- tGravityAccmeanZ
+- tGravityAccstdX
+- tGravityAccstdY
+- tGravityAccstdZ
+- tBodyAccJerkmeanX
+- tBodyAccJerkmeanY
+- tBodyAccJerkmeanZ
+- tBodyAccJerkstdX
+- tBodyAccJerkstdY
+- tBodyAccJerkstdZ
+- tBodyGyromeanX
+- tBodyGyromeanY
+- tBodyGyromeanZ
+- tBodyGyrostdX
+- tBodyGyrostdY
+- tBodyGyrostdZ
+- tBodyGyroJerkmeanX
+- tBodyGyroJerkmeanY
+- tBodyGyroJerkmeanZ
+- tBodyGyroJerkstdX
+- tBodyGyroJerkstdY
+- tBodyGyroJerkstdZ
+- tBodyAccMagmean
+- tBodyAccMagstd
+- tGravityAccMagmean
+- tGravityAccMagstd
+- tBodyAccJerkMagmean
+- tBodyAccJerkMagstd
+- tBodyGyroMagmean
+- tBodyGyroMagstd
+- tBodyGyroJerkMagmean
+- tBodyGyroJerkMagstd
+- fBodyAccmeanX
+- fBodyAccmeanY
+- fBodyAccmeanZ
+- fBodyAccstdX
+- fBodyAccstdY
+- fBodyAccstdZ
+- fBodyAccJerkmeanX
+- fBodyAccJerkmeanY
+- fBodyAccJerkmeanZ
+- fBodyAccJerkstdX
+- fBodyAccJerkstdY
+- fBodyAccJerkstdZ
+- fBodyGyromeanX
+- fBodyGyromeanY
+- fBodyGyromeanZ
+- fBodyGyrostdX
+- fBodyGyrostdY
+- fBodyGyrostdZ
+- fBodyAccMagmean
+- fBodyAccMagstd
+- fBodyBodyAccJerkMagmean
+- fBodyBodyAccJerkMagstd
+- fBodyBodyGyroMagmean
+- fBodyBodyGyroMagstd
+- fBodyBodyGyroJerkMagmean
+- fBodyBodyGyroJerkMagstd
+ 
