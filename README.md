@@ -18,11 +18,11 @@ The repository contains the script run_analysis.R to do the following:
 
 The script file should be located in the root of the unzipped dataset directory.
 
-Set this as the working directory and use 
+Set this as the working directory and run using:
 
 ```R
 source('run_analysis.R')
 ```
 
-to run the script.
+
 
