@@ -24,8 +24,8 @@ Finally, means are calculated for each measure and reported per subject and acti
 The tidy dataset produced (tidy.txt) contains the following vairables:
 
 
-activity
-subjectid 
+  activity
+  subjectid 
 
 tBodyAccmeanX
 tBodyAccmeanY
